@@ -18,8 +18,6 @@
 
 •	DACA Portfoolio - 11-nädalane õppeprojektid
 •	DACA Tiimi Portfoolio - 11-nädalane õppeprojektid
-•	Udemy Data Analysis - Õpin jooksvalt.
-•	TalTech Pythoni Algkursus - 26 akad. tundi
 
 
 📈 Eesmärk:
