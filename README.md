@@ -1,11 +1,11 @@
-# Tere! 👋 Mina olen
+# Tere! 👋 Mina olen Egle Laur
 
 🎯 Andmeanalüütiku karjääri algus
 
 Õpin hetkel DACA (Data Analyst Career Accelerator) programmis, kus keskendun andmete puhastamisele, modelleerimisele ja äriväärtuse leidmisele.idmisele.
 ---
 
-🛠️ Tehnoloogiad, mida õpin
+# 🛠️ Tehnoloogiad, mida õpin
 
 | **Andmebaasid** | PostgreSQL, Supabase |
 | **Progreammeerimise keeled** | Python  |
@@ -14,17 +14,17 @@
 
 ---
 
-## 📂 Projects
+# 📂 Projects
 
 •	DACA Portfoolio - 11-nädalane õppeprojektid
 •	DACA Tiimi Portfoolio - 11-nädalane õppeprojektid
 
 
-📈 Eesmärk:
+# 📈 Eesmärk:
 Rakendada Pythoni ja SQL-i võimekust, et muuta toored andmed selgeteks ärilisteks otsusteks.
 
 
-## 📫 Kontak
+#📫 Kontak
 
 - **Email**: lauregle@gmail.com
 - **GitHub**: [Egle823](https://github.com/Egle823)
