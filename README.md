@@ -2,7 +2,7 @@
 
 🎯 Andmeanalüütiku karjääri algus
 
-Õpin hetkel DACA (Data Analyst Career Accelerator) programmis, kus keskendun andmete puhastamisele, modelleerimisele ja äriväärtuse leidmisele.
+Õpin hetkel DACA (Data Analyst Career Accelerator) programmis, kus keskendun andmete puhastamisele, modelleerimisele ja äriväärtuse leidmisele.idmisele.
 ---
 
 🛠️ Tehnoloogiad, mida õpin
