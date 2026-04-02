@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Egle Laur
+# Tere! 👋 Mina olen
 
 🎯 Andmeanalüütiku karjääri algus
 
