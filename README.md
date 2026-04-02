@@ -3,14 +3,20 @@ Tere! 👋 mina olen Egle Laur
 <!--
 **Egle823/Egle823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Andmeanalüütiku Karjääri Algus
+Õpin hetkel DACA (Data Analyst Career Accelerator) programmis, kus keskendun andmete puhastamisele, modelleerimisele ja äriväärtuse leidmisele.
+🛠️ Tehnoloogiad, mida õpin
+     
+•	Andmebaasid: PostgreSQL, Supabase
+•	Programmeerimiskeeled: Python (pandas, plotly, numpy)
+•	Visualiseerimine: Power BI, Streamlit, MatPlotLib
+•	Versioonihaldus: Git, GitHub
+•	IDE: Visual Studio Code (VS Code)
+📂 Projektid
+•	DACA Portfoolio - 11-nädalane õppeprojektid
+•	DACA Tiimi Portfoolio - 11-nädalane õppeprojektid
+•	Udemy Data Analysis - Õpin jooksvalt.
+📈 Eesmärk:
+Rakendada Pythoni ja SQL-i võimekust, et muuta toored andmed selgeteks ärilisteks otsusteks.
+📫 Kontakt
+•	Email: lauregle@gmail.com
