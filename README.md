@@ -6,11 +6,10 @@
 ---
 
 # 🛠️ Tehnoloogiad, mida õpin
-
-| **Andmebaasid** | PostgreSQL, Supabase |
-| **Progreammeerimise keeled** | Python  |
-| **Visuaaliseerimine** | Power BI |
-| **Tools & Platforms** | Git, GitHub, VS Code |
+Andmebaasid** | PostgreSQL, Supabase |
+Progreammeerimise keeled** | Python  |
+Visuaaliseerimine** | Power BI |
+Tools & Platforms** | Git, GitHub, VS Code |
 
 ---
 
