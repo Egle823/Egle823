@@ -1,4 +1,4 @@
-## Hi there 👋
+Tere! 👋 mina olen Egle Laur
 
 <!--
 **Egle823/Egle823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
