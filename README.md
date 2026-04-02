@@ -1,7 +1,5 @@
-Tere! 👋 mina olen Egle Laur
 
-<!--
-**Egle823/Egle823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tere! 👋 mina olen Egle Laur
 
 🎯 Andmeanalüütiku Karjääri Algus
 Õpin hetkel DACA (Data Analyst Career Accelerator) programmis, kus keskendun andmete puhastamisele, modelleerimisele ja äriväärtuse leidmisele.
@@ -20,3 +18,5 @@ Tere! 👋 mina olen Egle Laur
 Rakendada Pythoni ja SQL-i võimekust, et muuta toored andmed selgeteks ärilisteks otsusteks.
 📫 Kontakt
 •	Email: lauregle@gmail.com
+
+
