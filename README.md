@@ -13,7 +13,7 @@ Tools & Platforms** | Git, GitHub, VS Code |
 
 ---
 
-# 📂 Projects
+# 📂 Projektid
 
 •	DACA Portfoolio - 11-nädalane õppeprojektid
 •	DACA Tiimi Portfoolio - 11-nädalane õppeprojektid
