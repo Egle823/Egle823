@@ -1,16 +1,16 @@
 # Tere! 👋 Mina olen Egle Laur
 
-🎯 Andmeanalüütiku karjääri algus
+## 🎯 Andmeanalüütiku Karjääri Algus
 
-Õpin hetkel DACA (Data Analyst Career Accelerator) programmis, kus keskendun andmete puhastamisele, modelleerimisele ja äriväärtuse leidmisele.
+Õpin hetkel **DACA (Data Analyst Career Accelerator)** programmis ja ehitan oma esimest professionaalset portfooliot.
 
 ---
 
 # 🛠️ Tehnoloogiad, mida õpin
-Andmebaasid** | PostgreSQL, Supabase |
-Progreammeerimise keeled** | Python  |
-Visuaaliseerimine** | Power BI |
-Tools & Platforms** | Git, GitHub, VS Code |
+- **Andmebaasid:** PostgreSQL, Supabase
+- **Programmeerimiskeeled:** Python (pandas, plotly)
+- **Visualiseerimine:** Power BI, Streamlit
+- **Versioonihaldus:** Git, GitHub
 
 ---
 
