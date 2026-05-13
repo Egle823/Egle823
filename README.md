@@ -27,7 +27,7 @@ Rakendada Pythoni ja SQL-i võimekust, et muuta toored andmed selgeteks ärilist
 #📫 Kontak
 
 - **Email**: lauregle@gmail.com
-- **GitHub**: [Egle823](https://github.com/Egle823)
+- **GitHub: [EgleLaur](https://github.com/EgleLaur)
 
 
 ---
